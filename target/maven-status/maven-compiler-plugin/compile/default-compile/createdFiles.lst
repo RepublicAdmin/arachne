@@ -1,0 +1,5 @@
+com/republic/ArachneApplication.class
+com/republic/ServletInitializer.class
+com/republic/models/HelloResponse.class
+com/republic/controllers/HelloWorld.class
+com/republic/configuration/Configuration.class
