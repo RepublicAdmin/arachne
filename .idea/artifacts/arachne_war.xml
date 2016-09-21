@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="arachne:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="arachne-0.0.1-SNAPSHOT.war">
+    <root id="archive" name="arachne.war">
       <element id="artifact" artifact-name="arachne:war exploded" />
     </root>
   </artifact>

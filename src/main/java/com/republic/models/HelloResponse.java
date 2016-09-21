@@ -9,8 +9,9 @@ public class HelloResponse {
         this.status = "Wszystko ok!";
         this.name="HelloWorldController";
     }
-
-
+    //http://localhost:8080/arachne-0.0.1-SNAPSHOT/sample/HelloWorld
+//<version>0.0.1-SNAPSHOT</version>
+    //<version>1.4.0.RELEASE</version>
     public String getStatus() {
         return status;
     }

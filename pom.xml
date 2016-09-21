@@ -5,7 +5,7 @@
 
 	<groupId>com.republic</groupId>
 	<artifactId>arachne</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+
 	<packaging>war</packaging>
 
 	<name>arachne</name>
@@ -14,7 +14,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.4.0.RELEASE</version>
+        <version>1.4.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
@@ -77,9 +77,11 @@
 	</dependencies>
 
 	<build>
+		<finalName>arachne</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
+
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>

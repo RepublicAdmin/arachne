@@ -1,5 +1,6 @@
-/home/lightmare/NetBeansProjects/arachne/src/main/java/com/republic/controllers/HelloWorld.java
-/home/lightmare/NetBeansProjects/arachne/src/main/java/com/republic/configuration/Configuration.java
-/home/lightmare/NetBeansProjects/arachne/src/main/java/com/republic/models/HelloResponse.java
-/home/lightmare/NetBeansProjects/arachne/src/main/java/com/republic/ServletInitializer.java
-/home/lightmare/NetBeansProjects/arachne/src/main/java/com/republic/ArachneApplication.java
+/home/naukajava/project/arachne/src/main/java/com/republic/controllers/Kobieta.java
+/home/naukajava/project/arachne/src/main/java/com/republic/ArachneApplication.java
+/home/naukajava/project/arachne/src/main/java/com/republic/configuration/Configuration.java
+/home/naukajava/project/arachne/src/main/java/com/republic/ServletInitializer.java
+/home/naukajava/project/arachne/src/main/java/com/republic/models/HelloResponse.java
+/home/naukajava/project/arachne/src/main/java/com/republic/controllers/HelloWorld.java
